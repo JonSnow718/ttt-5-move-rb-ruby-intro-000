@@ -12,7 +12,7 @@ def input_to_index(move)
   index
 end
 
-board = [" "," "," "," "," "," "," "," "," "]
+#board = [" "," "," "," "," "," "," "," "," "]
 
 def move(board,index, player)
   board[index] = player 

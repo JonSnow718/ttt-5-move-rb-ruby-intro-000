@@ -14,5 +14,4 @@ end
 
 def move(board, position, char="X")
   board[0] = "X"
-  board[1] = "O"
 end

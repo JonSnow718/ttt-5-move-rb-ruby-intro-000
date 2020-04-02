@@ -12,5 +12,5 @@ def input_to_index(move)
   index
 end
 
-def move(board,, player)
+def move(board, position, char)
 end
